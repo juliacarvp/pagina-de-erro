@@ -21,16 +21,16 @@ body{
 }
 
 img{
-    width: 250px;
+    width: 170px;
 }
 
 h1{
-    font-size: 115px;
+    font-size: 95px;
     margin-bottom: 10px;
 }
 
 h2{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .container{
@@ -60,10 +60,6 @@ button:hover{
 }
 
 @media only screen and (max-width: 400px){
-    img{
-        width: 210px;
-    }
-
     h1{
         font-size: 80px;
     }
